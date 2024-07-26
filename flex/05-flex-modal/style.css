@@ -70,4 +70,6 @@ button.cancel {
 
 .container{
   display: flex;
-  flex:1;
+  justify-content: space-around;
+  padding: 20px;
+  
