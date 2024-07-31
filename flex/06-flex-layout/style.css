@@ -16,7 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-   
+  padding: 15px; 
 }
 
 input {
@@ -36,11 +36,11 @@ input {
   justify-content: flex-start;
   padding: 15px;
   flex:1;
+  gap: 1rem;
 }
 
 .left-links{
   margin-right: auto;
-  gap: 1rem;
 }
 
 .content{
@@ -55,6 +55,7 @@ input {
   align-items: flex-end;
   background-color: #eeeeee;
   padding: 15px;
+  gap: 1rem;
   flex: 1;
 }
 
