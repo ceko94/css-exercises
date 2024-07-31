@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+   
 }
 
 input {
@@ -26,6 +27,8 @@ input {
 }
 
 
+
+
 .header{
   display: flex;
   justify-content: flex-start;
@@ -34,4 +37,10 @@ input {
 .left-links{
   margin-right: auto;
   gap: 1rem;
+}
+
+.content{
+  justify-content: center;
+  align-items: center;
+  max-width: 150px;
 }
