@@ -29,7 +29,9 @@ input {
 .header{
   display: flex;
   justify-content: flex-start;
+  padding: 15px;
 
 .left-links{
   margin-right: auto;
+  gap: 1rem;
 }
