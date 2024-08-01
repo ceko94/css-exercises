@@ -44,6 +44,8 @@ input {
 }
 
 .content{
+  display: flex;
+  flex: wrap;
   justify-content: center;
   align-items: center;
   max-width: 150px;
